@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../10.Project_EV Energy Consumption Prediction1/EV_Energy Consumption prediction/.ipynb_checkpoints"
+		},
+		{
+			"path": "../10.Project_EV Energy Consumption Prediction1/EV_Energy Consumption prediction/1.Data Collection"
+		},
+		{
+			"path": "../10.Project_EV Energy Consumption Prediction1/EV_Energy Consumption prediction/2.Preprocessing"
+		},
+		{
+			"path": "../10.Project_EV Energy Consumption Prediction1/EV_Energy Consumption prediction/3.Univariate And Bivariate"
+		},
+		{
+			"path": "../10.Project_EV Energy Consumption Prediction1/EV_Energy Consumption prediction/4.Feature Selection"
+		},
+		{
+			"path": "../10.Project_EV Energy Consumption Prediction1/EV_Energy Consumption prediction/5.Model Creation And Deployment"
+		},
+		{
+			"path": "../10.Project_EV Energy Consumption Prediction1/EV_Energy Consumption prediction/6.Final Model"
+		}
+	]
+}
